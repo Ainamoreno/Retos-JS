@@ -1,4 +1,4 @@
-let numero = parseFloat(("Introduzca un número"));
+let numero = parseFloat(prompt("Introduzca un número"));
 
 const IVA = 0.21;
 
